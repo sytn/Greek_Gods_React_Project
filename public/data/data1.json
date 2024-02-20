@@ -1,0 +1,107 @@
+
+    {
+      "id": 1,
+      "name": "Zeus",
+      "title": "King of the Gods",
+      "symbol": "Thunderbolt",
+      "description": "Zeus is the king of the Olympian gods and the god of the sky, lightning, thunder, law, order, and justice."
+    },
+    {
+      "id": 2,
+      "name": "Hera",
+      "title": "Queen of the Gods",
+      "symbol": "Peacock",
+      "description": "Hera is the queen of the Olympian gods and the goddess of marriage and family."
+    },
+    {
+      "id": 3,
+      "name": "Athena",
+      "title": "Goddess of Wisdom",
+      "symbol": "Owl",
+      "description": "Athena is the goddess of wisdom, strategic warfare, and the patron goddess of Athens."
+    },
+    {
+      "id": 4,
+      "name": "Poseidon",
+      "title": "God of the Sea",
+      "symbol": "Trident",
+      "description": "Poseidon is the god of the sea, earthquakes, and horses. He is one of the twelve Olympian gods."
+    },
+    {
+      "id": 5,
+      "name": "Apollo",
+      "title": "God of the Sun",
+      "symbol": "Lyre",
+      "description": "Apollo is the god of the sun, music, poetry, and healing. He is also associated with prophecy."
+    },
+    {
+      "id": 6,
+      "name": "Artemis",
+      "title": "Goddess of the Hunt",
+      "symbol": "Bow and Arrow",
+      "description": "Artemis is the goddess of the hunt, wilderness, and wild animals. She is the twin sister of Apollo."
+    },
+    {
+      "id": 7,
+      "name": "Demeter",
+      "title": "Goddess of Agriculture",
+      "symbol": "Wheat",
+      "description": "Demeter is the goddess of agriculture, fertility, and the harvest. She is often associated with the growth of crops."
+    },
+    {
+      "id": 8,
+      "name": "Hermes",
+      "title": "Messenger of the Gods",
+      "symbol": "Caduceus",
+      "description": "Hermes is the messenger of the gods and the god of commerce, travel, and communication. He is also a guide to the Underworld."
+    },
+    {
+      "id": 9,
+      "name": "Ares",
+      "title": "God of War",
+      "symbol": "Spear",
+      "description": "Ares is the god of war, violence, and bloodshed. He represents the chaotic and brutal aspects of war."
+    },
+    {
+      "id": 10,
+      "name": "Aphrodite",
+      "title": "Goddess of Love and Beauty",
+      "symbol": "Shell",
+      "description": "Aphrodite is the goddess of love, beauty, and desire. She is often associated with the sea and emerged from the sea foam."
+    },
+    {
+      "id": 11,
+      "name": "Dionysus",
+      "title": "God of Wine",
+      "symbol": "Grapevine",
+      "description": "Dionysus is the god of wine, festivities, and ecstasy. He represents the joyous and liberating aspects of life."
+    },
+    {
+      "id": 12,
+      "name": "Hephaestus",
+      "title": "God of Fire and Forge",
+      "symbol": "Anvil and Hammer",
+      "description": "Hephaestus is the god of fire, metalworking, and craftsmanship. He is the blacksmith of the gods."
+    },
+    {
+      "id": 13,
+      "name": "Persephone",
+      "title": "Queen of the Underworld",
+      "symbol": "Pomegranate",
+      "description": "Persephone is the queen of the Underworld and the goddess of spring growth. She is associated with the changing seasons."
+    },
+    {
+      "id": 14,
+      "name": "Eros",
+      "title": "God of Love",
+      "symbol": "Bow and Arrow",
+      "description": "Eros is the god of love and desire. He is often depicted as a winged boy with a bow and arrow."
+    },
+    {
+      "id": 15,
+      "name": "Nike",
+      "title": "Goddess of Victory",
+      "symbol": "Wreath and Palm Branch",
+      "description": "Nike is the goddess of victory and is often depicted with wings. She represents triumph and success."
+    }
+  

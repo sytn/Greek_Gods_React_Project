@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logoContainer {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 200px;
+    height: auto;
+    image-rendering: optimizeQuality;
+    -webkit-user-drag: none;
+    user-select: none;
+    border-radius: 50%;
+    filter: grayscale(0.5);
+}
+
+.logo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 100%;
+    height: auto;
+    image-rendering: optimizeQuality;
+    -webkit-user-drag: none;
+    user-select: none;
+    border-radius: 50%;
+    filter: grayscale(0.5);
+}
+
+/* Add media queries to adjust the logo size based on the viewport width */
+@media (min-width: 768px) {
+    .logo {
+        max-width: 300px;
+    }
+}
+@media (min-width: 992px) {
+    .logo{
+        max-width: 400px;
+    }
+}
+@media (min-width: 1200px) {
+    .logo{
+        max-width: 500px;
+    }
+}
